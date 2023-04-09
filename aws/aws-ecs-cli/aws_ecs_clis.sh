@@ -10,7 +10,7 @@ else
 fi
 
 
-if which aws >/dev/null; then
+if which ecs-cli >/dev/null; then
   echo "ecs-cli is installed"
 else
   echo "Updating packages ......"; sudo apt update &> /dev/null
