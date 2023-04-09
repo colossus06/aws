@@ -42,4 +42,8 @@ sudo chmod +x aws.sh
 ./aws_ecs_clis.sh
 ```
 
+![image](https://user-images.githubusercontent.com/96833570/230779681-01f53552-e4d3-40a4-b15f-f8eff2629ece.png)
+
+
+
 🔚
