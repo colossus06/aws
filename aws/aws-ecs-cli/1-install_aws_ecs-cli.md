@@ -30,7 +30,7 @@ Verify the installation
 
 
 
-``sh
+```sh
 curl -L -o aws_ecs_clis.sh https://raw.githubusercontent.com/colossus06/aws/master/aws/aws-ecs-cli/aws_ecs_clis.sh
 ```
 
